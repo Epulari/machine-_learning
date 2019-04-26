@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DecisionTree
 {
+    /// <summary>
+    /// 经典决策树 C4.5算法
+    /// </summary>
     class MultipleClassicDecisionTree
     {
         private readonly ConnectToDB connectdb; // 连接数据库的实例

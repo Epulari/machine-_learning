@@ -8,9 +8,9 @@ namespace DecisionTree
 {
     public struct Tree
     {
-        public string data;
-        public int[] children;
-        public Tree[] offspring;
+        public string data; // 特征或类别
+        public int[] children; // 特征的值
+        public Tree[] offspring; // 特征的值对应的子树
     }
     /// <summary>
     /// 经典决策树 C4.5算法
