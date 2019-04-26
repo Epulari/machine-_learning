@@ -4,8 +4,8 @@
 数据：postgresql数据库  
 ![decision tree](DecisionTree/csharp/data.png)  
 为便于运算，将所有数据都以integer形式存储，所有运算也都基于数据库的表进行。  
-![decision tree](DecisionTree/csharp/DecisionTree-OneSetsOfFeatures.png)  
-![decision tree](DecisionTree/csharp/DecisionTree-TwoSetsOfFeatures.png)  
+![decision tree](DecisionTree/csharp/OneSetsOfFeatures.png)  
+![decision tree](DecisionTree/csharp/TwoSetsOfFeatures.png)  
 ### python：ID3/C4.5
 [决策树思想与Python实现：ID3/C4.5](https://blog.csdn.net/u013719339/article/details/84395406)  
 [决策树思想与Python实现：CART](https://blog.csdn.net/u013719339/article/details/84502265)  
